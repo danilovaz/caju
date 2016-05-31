@@ -1,0 +1,25 @@
+{
+  "name": "caju",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilovaz/caju.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Danilo Vaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danilovaz/caju/issues"
+  },
+  "homepage": "https://github.com/danilovaz/caju#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
